@@ -3,10 +3,13 @@
 This repository will have the way to say "Hello World" in different programming languages
 
 - To run ".c"
-> gcc -o hello.out hello.c
+> gcc -o hello.out hello.c  (To compile)
+> ./hello.out   (To run)
 
 - To run ".cpp"
-> g++ -o hello.out hello.c
+> g++ -o hello.out hello.c  (To compile)
+> ./hello.out   (To run)
+
 
 - To run ".php"
 > php hello.php
